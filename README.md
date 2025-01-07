@@ -41,10 +41,14 @@ to run the app in a production-like environment.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)\
 ![PostCSS](https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ShadCN](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ## Libraries References
-
+- [React](https://react.dev)
+- [Tanstack Query](https://tanstack.com/query/latest/docs/framework/react/overview)
+- [React Hook Form](https://react-hook-form.com)
+- [Zod](https://zod.dev)
+- [Axios](https://www.npmjs.com/package/axios)
 
 ## Environmental Variables
 A `.env.sample` file is provided in the project with all instructions on how to use it in your project and customize it based on your needs. Here is a quick explanation:
